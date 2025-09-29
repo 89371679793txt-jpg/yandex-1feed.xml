@@ -1,5 +1,123 @@
-# Gold Dragon Tattoo — YML Feed
-Файл: yandex-1feed.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-09-28 20:00">
+  <shop>
+    <name>Gold Dragon Tattoo</name>
+    <company>Gold Dragon</company>
+    <url>https://golddragontattoo.ru</url>
 
-После включения GitHub Pages:
-https://89371679793txt-jpg.github.io/yandex-1feed.xml
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+
+    <categories>
+      <category id="1">Татуировки</category>
+      <category id="2">Пирсинг</category>
+      <category id="3">Удаление тату</category>
+      <category id="4">Перекрытие шрамов и ожогов</category>
+      <category id="5">Обучение татуировке</category>
+    </categories>
+
+    <offers>
+      <offer id="tattoo-01" type="vendor.model" available="true">
+        <name>Gold Dragon — Татуировки в Октябрьском</name>
+        <url>https://golddragontattoo.ru/tproduct/827530441632-tatuirovki-v-oktyabrskom</url>
+        <price>6000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/stor3465-3066-4136-b831-373231376534/73704744.jpg</picture>
+        <description><![CDATA[Профессиональные татуировки от студии Gold Dragon Tattoo в Октябрьском. Индивидуальные эскизы, реализм, перекрытие старых работ. Опыт мастеров более 10 лет.]]></description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <param name="rating" unit="балл">5.0</param>
+        <param name="reviews_count" unit="шт">52</param>
+        <param name="experience_years" unit="лет">10</param>
+        <param name="region">Октябрьский</param>
+        <param name="conversion_rate" unit="%">2</param>
+        <param name="service_type">tattoo</param>
+        <param name="service_subtype">artistic tattoo</param>
+        <set-ids>tattoo-01</set-ids>
+      </offer>
+
+      <offer id="piercing-01" type="vendor.model" available="true">
+        <name>Gold Dragon — Пирсинг в Октябрьском</name>
+        <url>https://golddragontattoo.ru/tproduct/567876245432-pirsing-v-oktyabrskom</url>
+        <price>2500.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/stor3866-6636-4232-b831-343461663431/56156512.jpg</picture>
+        <description><![CDATA[Безопасный пирсинг от Gold Dragon Tattoo в Октябрьском. Стерильные условия, сертифицированные инструменты и опыт мастеров более 10 лет.]]></description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <param name="rating" unit="балл">5.0</param>
+        <param name="reviews_count" unit="шт">52</param>
+        <param name="experience_years" unit="лет">10</param>
+        <param name="region">Октябрьский</param>
+        <param name="conversion_rate" unit="%">2</param>
+        <param name="service_type">piercing</param>
+        <param name="service_subtype">cosmetic piercing</param>
+        <set-ids>piercing-01</set-ids>
+      </offer>
+
+      <offer id="removal-01" type="vendor.model" available="true">
+        <name>Gold Dragon — Удаление татуировок в Октябрьском</name>
+        <url>https://golddragontattoo.ru/tproduct/710870701442-udalenie-tatuirovok-v-oktyabrskom</url>
+        <price>1000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://static.tildacdn.com/stor6165-3233-4464-b834-306531656436/79968203.jpg</picture>
+        <description><![CDATA[Современное и безопасное удаление татуировок в студии Gold Dragon Tattoo. Опыт работы мастеров более 10 лет. Индивидуальный подход.]]></description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <param name="rating" unit="балл">5.0</param>
+        <param name="reviews_count" unit="шт">52</param>
+        <param name="experience_years" unit="лет">10</param>
+        <param name="region">Октябрьский</param>
+        <param name="conversion_rate" unit="%">2</param>
+        <param name="service_type">tattoo_removal</param>
+        <param name="service_subtype">laser_removal</param>
+        <set-ids>removal-01</set-ids>
+      </offer>
+
+      <offer id="cover-01" type="vendor.model" available="true">
+        <name>Gold Dragon — Перекрытие шрамов и ожогов в Октябрьском</name>
+        <url>https://golddragontattoo.ru/tproduct/315673191652-perekritie-shramov-i-ozhogov-v-oktyabrsk</url>
+        <price>8000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://static.tildacdn.com/stor3765-3737-4532-b030-356536386537/99008045.jpg</picture>
+        <description><![CDATA[Художественное перекрытие шрамов и ожогов в студии Gold Dragon Tattoo в Октябрьском. Мастера с 10-летним опытом.]]></description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <param name="rating" unit="балл">5.0</param>
+        <param name="reviews_count" unit="шт">52</param>
+        <param name="experience_years" unit="лет">10</param>
+        <param name="region">Октябрьский</param>
+        <param name="conversion_rate" unit="%">2</param>
+        <param name="service_type">cover_up</param>
+        <param name="service_subtype">scar_cover</param>
+        <set-ids>cover-01</set-ids>
+      </offer>
+
+      <offer id="training-01" type="vendor.model" available="true">
+        <name>Gold Dragon — Обучение татуировке в Октябрьском</name>
+        <url>https://golddragontattoo.ru/tproduct/331395478072-obuchenie-tatuirovke-v-oktyabrskom</url>
+        <price>50000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://static.tildacdn.com/stor3339-3962-4162-a563-396335633133/31970848.jpg</picture>
+        <description><![CDATA[Профессиональные курсы обучения татуировке в студии Gold Dragon Tattoo. Теория и практика, выдаётся сертификат.]]></description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <param name="rating" unit="балл">5.0</param>
+        <param name="reviews_count" unit="шт">52</param>
+        <param name="experience_years" unit="лет">10</param>
+        <param name="region">Октябрьский</param>
+        <param name="conversion_rate" unit="%">2</param>
+        <param name="service_type">training</param>
+        <param name="service_subtype">tattoo_courses</param>
+        <set-ids>training-01</set-ids>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
+
